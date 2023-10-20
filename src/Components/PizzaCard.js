@@ -24,7 +24,7 @@ function PizzaCard(pizza) {
               </h4> 
               <p className="card-text">{pizza.desc}</p>
               <button className="btn btn-success mt-auto font-weight-bold" onClick={() => displayConfirm()}>
-                Order Pizza
+                Order Now
               </button>
           </div>
         </div>
