@@ -4,7 +4,7 @@ function Navbar_2() {
   return (
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark justify-content-center">
       <div class="container-fluid">
-          <a class="navbar-brand" href="javascript:void(0)">
+          <a class="navbar-brand" href="/pizzaordering">
             PizzaEmpire <i className='fab fa-typo3' />
           </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
@@ -13,7 +13,7 @@ function Navbar_2() {
           <div class="collapse navbar-collapse" id="mynavbar">
           <ul class="navbar-nav me-auto">
               <li class="nav-item">
-                <a class="nav-link" href="javascript:void(0)">Home</a>
+                <a class="nav-link" href="/pizzaordering">Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="javascript:void(0)">Orders</a>
