@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/pizzaordering/static/css/main.c7eca6ac.css",
-    "main.js": "/pizzaordering/static/js/main.44f2eabd.js",
+    "main.js": "/pizzaordering/static/js/main.95fafb7c.js",
     "static/media/slider_img_1.jpg": "/pizzaordering/static/media/slider_img_1.66df4808a2d88d874c48.jpg",
     "static/media/slider_img_2.jpg": "/pizzaordering/static/media/slider_img_2.123c512cfc7297c41143.jpg",
     "static/media/slider_img_3.jpg": "/pizzaordering/static/media/slider_img_3.da79c59f0b928b00cb3e.jpg",
     "static/media/slider_img_4.jpg": "/pizzaordering/static/media/slider_img_4.8194de561209c315c9e3.jpg",
     "index.html": "/pizzaordering/index.html",
     "main.c7eca6ac.css.map": "/pizzaordering/static/css/main.c7eca6ac.css.map",
-    "main.44f2eabd.js.map": "/pizzaordering/static/js/main.44f2eabd.js.map"
+    "main.95fafb7c.js.map": "/pizzaordering/static/js/main.95fafb7c.js.map"
   },
   "entrypoints": [
     "static/css/main.c7eca6ac.css",
-    "static/js/main.44f2eabd.js"
+    "static/js/main.95fafb7c.js"
   ]
 }
