@@ -4,6 +4,10 @@ import './Footer.css';
 import { Link } from 'react-router-dom';
 
 function Footer() {
+
+  let date_val = new Date();
+  let year_val = date_val.getFullYear();
+
   return (
     <div className="row" style={{marginTop:"10rem"}}>
       <div className='footer-container'>
@@ -25,7 +29,7 @@ function Footer() {
         </section> */}
         <section class='social-media'>
           <div class='social-media-wrap'>
-            <small class='website-rights'>PE © 2023</small>
+            <small class='website-rights'>PE © {year_val}</small>
             <div class='social-icons'>
               <Link
                 class='social-icon-link facebook'
